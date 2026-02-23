@@ -1,11 +1,6 @@
 # 💰 Controle Financeiro
 
-<p align="center">
-  <img src="https://img.shields.io/github/repo-size/cleciofjur/Controle-Financeiro?color=green" />
-  <img src="https://img.shields.io/github/languages/top/cleciofjur/Controle-Financeiro?color=blue" />
-  <img src="https://img.shields.io/github/last-commit/cleciofjur/Controle-Financeiro?color=orange" />
-  <img src="https://img.shields.io/github/license/cleciofjur/Controle-Financeiro?color=brightgreen" />
-</p>
+---
 
 <p align="center">
   Aplicação web simples para controle de receitas e despesas, desenvolvida com HTML, CSS e JavaScript.
@@ -72,9 +67,9 @@ Pronto ✅
 
 ## 📸 Preview do Projeto
 
-```
-<img width="1920" height="1080" alt="image" src="/../assets/Captura de tela 2026-02-23 162628.png" />
-```
+<p align="center">
+  <img src="assets/Captura de tela 2026-02-23 162628.png" width="700">
+</p>
 
 ---
 
@@ -101,9 +96,3 @@ Estudante de Engenharia de Software
 ## 📄 Licença
 
 Este projeto está sob a licença MIT.
-
----
-
-<p align="center">
-  Feito com 💚 e muito JavaScript.
-</p>
