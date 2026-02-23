@@ -73,7 +73,7 @@ Pronto ✅
 ## 📸 Preview do Projeto
 
 ```
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/36581ba3-18f2-4887-8a0f-01857f800ea2" />
+<img width="1920" height="1080" alt="image" src="/../assets/Captura de tela 2026-02-23 162628.png" />
 ```
 
 ---
